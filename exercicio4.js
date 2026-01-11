@@ -17,7 +17,7 @@ function converterIdade(clientes){
     return clientes.map(cliente => {
         return {
             nome: cliente.nome,
-            idade: Number(cliente.idade)
+            idade:Number(cliente.idade)
         }
     })
 }
