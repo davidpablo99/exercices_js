@@ -15,7 +15,10 @@ const clientes = [
 
 function converterIdade(clientes){
     return clientes.map(cliente => {
-        return Number(cliente.idade)
+        return {
+            nome: cliente.nome,
+            idade: Number(cliente.idade)
+        }
     })
 }
 console.log(converterIdade(clientes))
