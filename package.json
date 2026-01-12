@@ -1,0 +1,21 @@
+{
+  "name": "exercices_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpablo99/exercices_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/davidpablo99/exercices_js/issues"
+  },
+  "homepage": "https://github.com/davidpablo99/exercices_js#readme"
+}
